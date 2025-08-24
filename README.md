@@ -1,24 +1,49 @@
-# 🛒 E-Commerce Sales Analysis  
+# Ecommerce Sales Analysis
 
-This project analyzes **E-Commerce sales data** to extract insights, identify trends, and build predictive models.  
-The goal is to help businesses improve decision-making by leveraging data-driven insights.  
+This project provides a comprehensive analysis of ecommerce sales data with the goal of uncovering meaningful business insights. By exploring sales patterns, customer behavior, and revenue trends, the project demonstrates how data analysis can support informed business decisions.  
 
----
-
-## 📌 Project Overview  
-- **Dataset**: E-Commerce dataset (`ecommerce_dataset_unstructured.csv`)  
-- **Tech stack**: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-- **Key steps**:  
-  1. Data Collection & Preprocessing  
-  2. Exploratory Data Analysis (EDA)  
-  3. Feature Engineering  
-  4. Model Development  
-  5. Results & Insights  
+The notebook walks through every stage of a typical data analytics workflow: from cleaning and preparing raw data, through exploratory analysis and visualization, to deriving actionable insights. The results can help businesses optimize inventory, improve marketing strategies, and identify opportunities for growth.  
 
 ---
 
-## ⚙️ Installation & Setup  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/ecommerce-sales-analysis.git
-   cd ecommerce-sales-analysis
+## Project Overview
+The main objectives of this project are:
+- Clean and preprocess raw ecommerce sales data for accuracy and consistency  
+- Perform exploratory data analysis (EDA) to better understand sales trends  
+- Visualize key metrics such as sales by product, region, and time period  
+- Identify seasonal and monthly patterns that impact revenue  
+- Highlight top-performing products, categories, and regions  
+- Analyze customer purchase behavior and frequency  
+- Provide recommendations for data-driven decision-making in ecommerce  
+
+This project not only applies core data analysis techniques but also demonstrates how to communicate findings clearly through visualizations.
+
+---
+
+## Technologies Used
+- **Python**: Core programming language  
+- **Jupyter Notebook**: For interactive development and analysis  
+- **Pandas**: Data cleaning and preprocessing  
+- **NumPy**: Numerical computations  
+- **Matplotlib**: Visualization of trends and insights  
+- **Seaborn**: Advanced and styled visualizations  
+
+---
+
+## Dataset
+The dataset is included in this repository and contains fields such as:
+- Order Date  
+- Product Name  
+- Sales Amount  
+- Quantity Ordered  
+- Customer Segment / Region  
+
+The dataset enables the analysis of sales distribution across products, customers, and time periods.
+
+---
+
+## Installation & Setup
+Clone the repository:
+```bash
+git clone https://github.com/<your-username>/ecommerce-sales-analysis.git
+cd ecommerce-sales-analysis

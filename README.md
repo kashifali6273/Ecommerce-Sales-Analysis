@@ -45,5 +45,5 @@ The dataset enables the analysis of sales distribution across products, customer
 ## Installation & Setup
 Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/ecommerce-sales-analysis.git
+git clone https://github.com/<kashifali6273>/ecommerce-sales-analysis.git
 cd ecommerce-sales-analysis
